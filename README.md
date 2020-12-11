@@ -1,4 +1,4 @@
-# TDA_project
+# Computational Topology Project: Segmentation of LEGO PARTS using Topological and Conventional Features
 This project was done as a part of the coursework for the course Computational Topology at Duke University. 
 
 For this project we used the LEGO dataset. We altered the Rebrickable dataset downloaded from [here](https://rebrickable.com/downloads/) to build the prototypes. The steps to do this have been covered in the final report (found in the Reports folder). This dataset has images of LEGO parts across various categories like figures, bricks, tiles etc. 
